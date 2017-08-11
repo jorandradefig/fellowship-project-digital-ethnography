@@ -1,3 +1,24 @@
+Propuesta de colores:
+
+Azul Twitter: #1DA1F2
+Naranja Twitter: #F45D22
+Naranja Complementario: #F26E1D
+
+Triádico:
+Rosa: #F21DA1
+Verde limón (acento): #A1F21D
+
+Paleta:
+Verde claro: #DAF7A6
+Amarillo: #FFC300
+Salmón: #FF5733
+Rosa: #C70039
+Morado: #900C3F 
+
+
+
+--------------------------------
+
 # DigEth
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.1.
